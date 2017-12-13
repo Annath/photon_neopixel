@@ -6428,7 +6428,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="U2" library="Spark" deviceset="PHOTON" device="_WITH_HEADERS"/>
 <part name="C1" library="SparkFun-Capacitors" deviceset="1000UF" device="-RADIAL-5MM-25V-20%" value="1kF"/>
 <part name="R1" library="resistor" deviceset="R-US_" device="0207/7" value="470"/>
-<part name="R2" library="resistor" deviceset="R-US_" device="0207/7" value="50k"/>
+<part name="R2" library="resistor" deviceset="R-US_" device="0207/7" value="100k"/>
 <part name="J1" library="SparkFun-Connectors" deviceset="CONN_04" device="" value="Neopixel"/>
 <part name="U1" library="adafruit" deviceset="TXB0108PWR" device=""/>
 <part name="GND1" library="SparkFun-PowerSymbols" deviceset="DGND" device=""/>
